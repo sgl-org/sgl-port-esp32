@@ -137,3 +137,6 @@
 [submodule "components/bt/esp_ble_mesh/lib/lib"]
 	path = components/bt/esp_ble_mesh/lib/lib
 	url = ../../espressif/esp-ble-mesh-lib.git
+[submodule "examples/sgl/main/sgl"]
+	path = examples/sgl/main/sgl
+	url = http://github.com/sgl-org/sgl
